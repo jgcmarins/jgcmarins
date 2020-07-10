@@ -1,5 +1,9 @@
 ### Hi there 👋
 
+Here's a picture of me right now:
+
+<img src="https://media.tenor.com/images/9c771f82de191180c79570b32d49daa7/tenor.gif" >
+
 <!--
 **jgcmarins/jgcmarins** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
