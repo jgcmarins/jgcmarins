@@ -8,7 +8,7 @@
   </samp>
 </p>
 <p align="center">
-  <a href="[https://wakatime.com/@jgcmarins](https://wakatime.com/@b335e537-e357-473c-946e-f4da6f936036)"><img src="https://wakatime.com/badge/user/b335e537-e357-473c-946e-f4da6f936036.svg"></img></a>
+  <a href="https://wakatime.com/@jgcmarins"><img src="https://wakatime.com/badge/user/b335e537-e357-473c-946e-f4da6f936036.svg"></img></a>
 </p>
 
 
