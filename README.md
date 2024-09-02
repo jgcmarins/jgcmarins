@@ -2,8 +2,9 @@
   <samp>
     <a href="https://joaomarins.com">me</a> .
     <a href="https://medium.com/@jgcmarins">articles</a> .    
-    <a href="https://twitter.com/jgcmarins">tweets</a> .
+    <a href="https://x/jgcmarins">tweets</a> .
     <a href="https://www.linkedin.com/in/joao-marins/">linkedin</a> .
+    <a href="https://www.strava.com/athletes/jgcmarins">strava</a> .
     <a href="https://instagram.com/joaogracinha">instagram</a>
   </samp>
 </p>
