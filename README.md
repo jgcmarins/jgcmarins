@@ -4,7 +4,7 @@
     <a href="https://medium.com/@jgcmarins">articles</a> .    
     <a href="https://x.com/jgcmarins">tweets</a> .
     <a href="https://www.linkedin.com/in/joao-marins/">linkedin</a> .
-    <a href="https://www.strava.com/athletes/jgcmarins">strava</a> .
+    <a href="https://www.strava.com/athletes/137955537">strava</a> .
     <a href="https://instagram.com/joaogracinha">instagram</a>
   </samp>
 </p>
@@ -21,7 +21,7 @@
 
      /\_/\    João Marins
     ( o.o )   Full-Stack Engineer, Entrepreneur, Angel Investor,
-     > ^ <    Open Source Maintainer, and Startup Survivor.
+     > ^ <    Open Source Maintainer, Triathlete and CrossFitter
 
 <p>
 <samp>
