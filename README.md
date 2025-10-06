@@ -14,7 +14,7 @@
 </p>
 
 <p align="center">
-  <a href="https://img.shields.io/badge/squat-160kg-red"><img src="https://img.shields.io/badge/squat-160kg-red"></img></a>
+  <a href="https://img.shields.io/badge/squat-170kg-red"><img src="https://img.shields.io/badge/squat-160kg-red"></img></a>
   <a href="https://img.shields.io/badge/benchpress-100kg-green"><img src="https://img.shields.io/badge/benchpress-100kg-green"></img></a>
   <a href="https://img.shields.io/badge/deadlift-200kg-blue"><img src="https://img.shields.io/badge/deadlift-200kg-blue"></img></a>
 </p>
