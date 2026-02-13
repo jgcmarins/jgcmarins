@@ -30,7 +30,7 @@
   → He realized he preferred bugs in code over bugs in quantum mechanics.</br>
   → He became a full-stack dev.</br>
   → Built apps, coded APIs, deployed things, broke things, fixed things.</br>
-  → Shipped two startups: <a href="https://www.linkedin.com/company/angoralabs/" target="_blank">Angora</a> and <a href="https://www.linkedin.com/company/confy-app/" target="_blank">Confy</a>.</br>
+  → Shipped few startups: <a href="https://www.linkedin.com/company/angoralabs/" target="_blank">Angora</a>, <a href="https://www.linkedin.com/company/confy-app/" target="_blank">Confy</a>, <a href="https://www.bemtevi.com/" target="_blank">bem.te.vi</a> and <a href="https://meumatri.com/" target="_blank">MeuMatri</a>.</br>
   → Worked remotely for Silicon Valley Startups (because why not?).</br>
   → Now back home, ready for the next chapter.</br>
 </samp>
