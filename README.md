@@ -20,7 +20,7 @@
 </p>
 
      /\_/\    João Marins
-    ( o.o )   Full-Stack Engineer, Entrepreneur, Angel Investor,
+    ( o.o )   Software Engineer, Entrepreneur, Angel Investor,
      > ^ <    Open Source Maintainer, Triathlete and CrossFitter
 
 <p>
