@@ -1,7 +1,7 @@
 <p align="center">
   <samp>
     <a href="https://joaomarins.com">joaomarins.com</a> .
-    <a href="https://joaomarins.substack.com/">articles</a> .    
+    <a href="https://joaomarins.substack.com/">articles</a> .
     <a href="https://x.com/jgcmarins">tweets</a> .
     <a href="https://www.linkedin.com/in/joao-marins/">linkedin</a> .
     <a href="https://www.strava.com/athletes/jgcmarins">strava</a> .
@@ -10,32 +10,36 @@
 </p>
 
 <p align="center">
-  <a href="https://wakatime.com/@b335e537-e357-473c-946e-f4da6f936036"><img src="https://wakatime.com/badge/user/b335e537-e357-473c-946e-f4da6f936036.svg"></img></a>
+  <a href="https://wakatime.com/@b335e537-e357-473c-946e-f4da6f936036"><img src="https://wakatime.com/badge/user/b335e537-e357-473c-946e-f4da6f936036.svg"></a>
 </p>
 
 <p align="center">
-  <a href="https://img.shields.io/badge/squat-170kg-red"><img src="https://img.shields.io/badge/squat-170kg-red"></img></a>
-  <a href="https://img.shields.io/badge/benchpress-100kg-green"><img src="https://img.shields.io/badge/benchpress-100kg-green"></img></a>
-  <a href="https://img.shields.io/badge/deadlift-200kg-blue"><img src="https://img.shields.io/badge/deadlift-200kg-blue"></img></a>
+  <img src="https://img.shields.io/badge/squat-170kg-red">
+  <img src="https://img.shields.io/badge/benchpress-100kg-green">
+  <img src="https://img.shields.io/badge/deadlift-200kg-blue">
 </p>
 
-     /\_/\    João Marins
-    ( o.o )   Software Engineer, Entrepreneur, Angel Investor,
-     > ^ <    Open Source Maintainer, Triathlete and CrossFitter
+## João Marins
 
-<p>
-<samp>
-🪐 Once upon a time in a land far, far away (also known as São Carlos, a small town in Brazil)...</br>
-  → João was studying Physics at a big university.</br>
-  → He realized he preferred bugs in code over bugs in quantum mechanics.</br>
-  → He became a full-stack dev.</br>
-  → Built apps, coded APIs, deployed things, broke things, fixed things.</br>
-  → Shipped few startups: <a href="https://www.linkedin.com/company/angoralabs/" target="_blank">Angora</a>, <a href="https://www.linkedin.com/company/confy-app/" target="_blank">Confy</a>, <a href="https://www.bemtevi.com/" target="_blank">bem.te.vi</a> and <a href="https://meumatri.com/" target="_blank">MeuMatri</a>.</br>
-  → Worked remotely for Silicon Valley Startups (because why not?).</br>
-  → Now back home, ready for the next chapter.</br>
-</samp>
-</p>
+Some things about me:
+
+- Software engineer, entrepreneur, angel investor and open source maintainer
+- Software Engineer at [Sunrun](https://www.sunrun.com)
+- Live in Brazil
+- Studied Computer Science and Physics at [Universidade de São Paulo](https://www5.usp.br/)
+- Shipped a few startups: [Confy](https://www.linkedin.com/company/confy-app/), [Angora Labs](https://www.linkedin.com/company/angoralabs/), [bem.te.vi](https://www.bemtevi.com/) and [MeuMatri](https://meumatri.com/)
+- Mostly work with Node.js, React, React Native, TypeScript, GraphQL, Relay, MongoDB, AWS and K8s
+- Spoke at React Conf Brazil and other [events](https://joaomarins.com/#talks) about React, Relay, GraphQL and CI/CD
+- Write at [joaomarins.substack.com](https://joaomarins.substack.com/)
+- Triathlete and CrossFitter
+- Also known as Gracinha
+
+```sh
+npx jgcmarins
+```
 
 ---
 
 <img src="https://~" onerror="alert(1)">
+
+---
